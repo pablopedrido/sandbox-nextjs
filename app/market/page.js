@@ -16,7 +16,7 @@ export default async function Page() {
 
   return (
     <div className={styles.page}>
-      <h1 className={styles.title}>Stocks</h1>
+      <h1 className={styles.title}>Stock</h1>
 
       <div>
         <ul className={styles.lista}>
